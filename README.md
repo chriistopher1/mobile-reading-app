@@ -5,8 +5,7 @@ ReadOn is a cross-platform mobile reading app that helps university students rea
 > **Portfolio project.** This repository is a showcase only. The source code is private and is not open source.
 
 ## 🎬 Demo
-
-**[▶ Watch the demo video]https://youtube.com/shorts/hknS_F5frd0?feature=share**
+https://youtube.com/shorts/hknS_F5frd0?feature=share
 
 <!-- Optional: add a clickable thumbnail
 [![ReadOn Demo](docs/thumbnail.png)](YOUR_DEMO_VIDEO_LINK_HERE)
